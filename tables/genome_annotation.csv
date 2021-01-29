@@ -1,0 +1,13 @@
+Contig name	Annotation
+GMOY000749-PA  |protein_coding|scf7180000640387:25911:28134:-1|gene:GMOY000749	sp|P05303|EF1A2_DROME Elongation factor 1-alpha 2 OS=Drosophila melanogaster OX=7227 GN=eEF1alpha2 PE=2 SV=2
+GMOY001603-PA friend of echinoid|protein_coding|scf7180000641612:11209:55453:-1|gene:GMOY001603	tr|A0A023GPK8|A0A023GPK8_DROME Friend of echinoid, isoform H OS=Drosophila melanogaster OX=7227 GN=fred PE=4 SV=1
+GMOY002920-PA Cuticular protein 92F|protein_coding|scf7180000644811:29175:35336:1|gene:GMOY002920	tr|Q9VDJ8|Q9VDJ8_DROME Cuticular protein 92F OS=Drosophila melanogaster OX=7227 GN=Cpr92F PE=2 SV=1
+GMOY003090-PA Porin|protein_coding|scf7180000645283:101212:102117:1|gene:GMOY003090	sp|Q94920|VDAC_DROME Voltage-dependent anion-selective channel OS=Drosophila melanogaster OX=7227 GN=porin PE=1 SV=3
+GMOY003371-PA Elongation factor 1-alpha|protein_coding|scf7180000645972:460:1683:-1|gene:GMOY003371	sp|P05303|EF1A2_DROME Elongation factor 1-alpha 2 OS=Drosophila melanogaster OX=7227 GN=eEF1alpha2 PE=2 SV=2
+GMOY003588-PA  |protein_coding|scf7180000646682:6434:8267:-1|gene:GMOY003588	tr|Q7K188|Q7K188_DROME Protein quiver OS=Drosophila melanogaster OX=7227 GN=Dmel\CG6329 PE=2 SV=1
+GMOY003952-PA nuclear pore complex component|protein_coding|scf7180000647842:60162:71998:-1|gene:GMOY003952	tr|Q7K2X8|Q7K2X8_DROME Nucleoporin at 44A, isoform A OS=Drosophila melanogaster OX=7227 GN=Nup44A PE=1 SV=1
+GMOY005053-PA  |protein_coding|scf7180000648395:12714:17887:-1|gene:GMOY005053	tr|Q9VG81|Q9VG81_DROME RH49330p OS=Drosophila melanogaster OX=7227 GN=Sccpdh2 PE=1 SV=1
+GMOY005321-PA Cuticular protein 49Aa|protein_coding|scf7180000648531:142812:146663:1|gene:GMOY005321	tr|A8DRW0|A8DRW0_DROME Cuticular protein 49Aa OS=Drosophila melanogaster OX=7227 GN=Cpr49Aa PE=1 SV=1
+GMOY009908-PA  |protein_coding|scf7180000651955:36380:36955:-1|gene:GMOY009908	tr|Q9VLZ6|Q9VLZ6_DROME FI24007p1 OS=Drosophila melanogaster OX=7227 GN=Dmel\CG6739 PE=2 SV=1
+GMOY010976-PA  |protein_coding|scf7180000652158:2947461:2951883:-1|gene:GMOY010976	sp|Q9W123|POF_DROME Protein painting of fourth OS=Drosophila melanogaster OX=7227 GN=Pof PE=1 SV=1
+GMOY011979-PA Vacuolar H+-ATPase v1 sector subunit E|protein_coding|scf7180000652170:25313975:25317206:1|gene:GMOY011979	sp|P54611|VATE_DROME V-type proton ATPase subunit E OS=Drosophila melanogaster OX=7227 GN=Vha26 PE=2 SV=1
